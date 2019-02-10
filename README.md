@@ -1,6 +1,6 @@
-# ![](https://pdf2htmlEX.github.io/pdf2htmlEX/images/pdf2htmlEX-64x64.png) pdf2htmlEX 
+# ![](https://pdf2htmlEX.github.io/pdf2htmlEX/images/pdf2htmlEX-64x64.png) pdf2htmlEX
 
-[![Build Status](https://travis-ci.org/pdf2htmlEX/pdf2htmlEX.svg?branch=master)](https://travis-ci.org/pdf2htmlEX/pdf2htmlEX)
+[![Build Status](https://travis-ci.org/erlanger/pdf2htmlEX.svg?branch=master)](https://travis-ci.org/erlanger/pdf2htmlEX)
 
 # Differences from upstream pdf2htmlEX:
 
@@ -34,7 +34,7 @@ If you are concerned about file size of the resulting HTML, then I recommend pat
 pdf2htmlEX renders PDF files in HTML, utilizing modern Web technologies.
 Academic papers with lots of formulas and figures? Magazines with complicated layouts? No problem!
 
-pdf2htmlEX is also an [online publishing tool](https://pdf2htmlEX.github.io/pdf2htmlEX/doc/tb108wang.html) which is flexible for many different use cases. 
+pdf2htmlEX is also an [online publishing tool](https://pdf2htmlEX.github.io/pdf2htmlEX/doc/tb108wang.html) which is flexible for many different use cases.
 
 Learn more about [who](https://github.com/pdf2htmlEX/pdf2htmlEX/wiki/Use-Cases) and [why](https://github.com/pdf2htmlEX/pdf2htmlEX/wiki/Introduction) should use pdf2htmlEX.
 
@@ -71,7 +71,7 @@ pdf2htmlEX is made possible thanks to the following projects:
 
 pdf2htmlEX is inspired by the following projects:
 
-* pdftohtml from poppler 
+* pdftohtml from poppler
 * MuPDF
 * PDF.js
 * Crocodoc
@@ -80,4 +80,4 @@ pdf2htmlEX is inspired by the following projects:
 #### Special Thanks
 
 * Hongliang Tian
-* Wanmin Liu 
+* Wanmin Liu

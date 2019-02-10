@@ -13,6 +13,9 @@ env:
     - FONTFORGE_SOURCE="https://github.com/fontforge/fontforge.git"
     - LIBUNINAMESLIST_SOURCE="https://github.com/fontforge/libuninameslist.git"
 
+after_success:
+    - ls -lR ${TRAVIS_BUILD_DIR}
+
 
 compiler: gcc
 
